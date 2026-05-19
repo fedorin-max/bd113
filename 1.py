@@ -6,3 +6,5 @@ def diff(a, b):
 
 def division(a, b):
     return a / b
+
+#Vasya was here
