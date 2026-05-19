@@ -12,3 +12,6 @@ def division(a, b):
 
 def show(a, b):
     print(a, b)
+
+#Vasya was here
+#Vasya - durak!
